@@ -19,4 +19,5 @@ Endpoints:
      I. The first statement should tell me if the first number is greater than, less than or equal to the second number.
      II. The second statement should tell me if the second number is greater than, less than, or equal to the first number.
 
-Peer Review: 
+Peer Review: Aaron Robinson
+the endpoints work as intended and the code is organized. Although, I dont think the .ToString() method on the AddTwoNumsService is neccessary and I'd add puncation just so you don't get marked for it. Great Job
